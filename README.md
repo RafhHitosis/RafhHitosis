@@ -5,9 +5,9 @@
 </p>
 
 <p align="center">
-  <a href="https://app.daily.dev/tokwa_24">
-    <img src="https://api.daily.dev/devcards/v2/Ficn8IHeAQauhKloktA8U.png?type=default&r=8ps" width="356" alt="Rafh's Dev Card"/>
-  </a>
+ <a href="https://app.daily.dev/tokwa_24">
+   <img src="https://api.daily.dev/devcards/v2/Ficn8IHeAQauhKloktA8U.png?type=default&r=kf6" width="356" alt="Rafh's Dev Card"/>
+ </a>
 </p>
 
 <h3 align="center">A passionate frontend developer</h3>
