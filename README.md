@@ -27,7 +27,7 @@
   </a>
   <br><br>
   <a href="https://rafh-hitosis.netlify.app/" target="_blank" style="text-decoration: none; color: #0077B5; font-weight: bold; font-size: 16px;">
-    🌐 Visit My Simple Portfolio: rafh-hitosis.netlify.app
+    🌐 Visit My Simple Portfolio: [rafh-hitosis.netlify.app](https://rafh-hitosis.netlify.app/)
   </a>
 </div>
 
