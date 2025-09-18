@@ -16,7 +16,9 @@
   <img src="https://komarev.com/ghpvc/?username=rafhhitosis&label=Profile%20views&color=0e75b6&style=flat" alt="rafhhitosis" /> 
 </p>
 
-<div style="width:100px; height:50px; background-color:gray; margin:auto;"></div>
+<p align="center">
+  <img src="https://via.placeholder.com/200x2/808080/808080.png" alt="divider" />
+</p>
 
 <h3 align="center">Connect with me:</h3>
 
