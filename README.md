@@ -35,7 +35,7 @@
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
   <a href="https://developer.android.com/studio" target="_blank" rel="noreferrer">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a9/Android_Studio_Logo_2024.svg" 
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/34/Android_Studio_icon.svg.png" 
        alt="Android Studio" width="40" height="40" style="border:none; display:inline-block;">
   </a>
   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
