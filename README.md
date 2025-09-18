@@ -17,8 +17,7 @@
 </p>
 
 <p align="center">
-  <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAABCAYAAADGWybmAAAAE0lEQVR42mP8z/D/PwMDAwMjAAAjmQaAWW7IMgAAAABJRU5ErkJggg==" 
-       alt="divider" width="800" height="10" />
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="800">
 </p>
 
 <h3 align="center">Connect with me:</h3>
