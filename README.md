@@ -22,7 +22,7 @@
 
 <h3 align="center">Connect with me:</h3>
 
-<div align="center" style="margin-bottom: 200px;">
+<div align="center">
   <a href="https://www.linkedin.com/in/rafhhitosis" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
   </a>
@@ -35,6 +35,7 @@
     🌐 Visit My Simple Portfolio: https://rafh-hitosis.netlify.app/
   </a>
 </div>
+<br><br><br><br><br><br><br><br>
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="500">
