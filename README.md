@@ -18,7 +18,7 @@
 
 <p align="center">
   <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAABCAYAAADGWybmAAAAE0lEQVR42mP8z/D/PwMDAwMjAAAjmQaAWW7IMgAAAABJRU5ErkJggg==" 
-       alt="divider" width="200" height="2" />
+       alt="divider" width="800" height="10" />
 </p>
 
 <h3 align="center">Connect with me:</h3>
