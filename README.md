@@ -17,7 +17,7 @@
 </p>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="400">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="500">
 </p>
 
 <h3 align="center">Connect with me:</h3>
@@ -36,7 +36,9 @@
   </a>
 </div>
 
----
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="500">
+</p>
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
