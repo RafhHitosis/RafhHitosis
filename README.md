@@ -30,12 +30,12 @@
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" 
        alt="Email" height="35" style="border:none; display:inline-block;">
   </a>
-  <br><br>
+  <br>
   <a href="https://rafh-hitosis.netlify.app/" target="_blank" style="text-decoration: none; color: #0077B5; font-weight: bold; font-size: 16px;">
     🌐 Visit My Simple Portfolio: https://rafh-hitosis.netlify.app/
   </a>
 </div>
-<br><br><br><br><br><br><br><br>
+<br><br><br><br>
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="500">
