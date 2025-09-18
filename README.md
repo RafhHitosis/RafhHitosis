@@ -19,13 +19,10 @@
 <h3 align="center">Connect with me:</h3>
 
 <div align="center">
-  <a href="https://github.com/RafhHitosis" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="github logo" />
-  </a>
   <a href="https://www.linkedin.com/in/rafhhitosis" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
   </a>
-  <a href="mailto:rafhhitosis@gmail.com">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=rafhhitosis@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" 
        alt="Email" height="35" style="border:none; display:inline-block;">
   </a>
