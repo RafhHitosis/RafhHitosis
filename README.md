@@ -25,6 +25,10 @@
   <a href="https://www.linkedin.com/in/rafhhitosis" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
   </a>
+  <a href="mailto:rafhhitosis@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" 
+       alt="Email" height="35" style="border:none; display:inline-block;">
+  </a>
   <br><br>
   <a href="https://rafh-hitosis.netlify.app/" target="_blank" style="text-decoration: none; color: #0077B5; font-weight: bold; font-size: 16px;">
     🌐 Visit My Simple Portfolio: https://rafh-hitosis.netlify.app/
